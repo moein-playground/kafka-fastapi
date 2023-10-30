@@ -1,0 +1,1 @@
+Moein's playground for playing with Kafka and Fastapi.
